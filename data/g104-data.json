@@ -1,0 +1,290 @@
+[
+  {
+    "Nama Alat": "Motor AC 3 Fase",
+    "No Seri": "1571002417-1",
+    "Merk": "TECO",
+    "Spesifikasi": "4 Pole, 0.5 HP, 0.37 kW, 50 Hz, 1390 rpm, ins. F, IP55, 380V, 1.21 A, ∆",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1vAgF6cAEqZkkiI4Vw_kVjD5cJXSNjrth"
+  },
+  {
+    "Nama Alat": "Automatic Voltage Regulator",
+    "No Seri": "Model-2000B",
+    "Merk": "MATSUGAWA",
+    "Spesifikasi": "2kVA, out 110V/20A, 220V/10A, in 50-130V/160-240V",
+    "Fungsi": "Pengatur Tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1lXbH1eWcAv3nj4M_vSsymL7tTrKuLHfS"
+  },
+  {
+    "Nama Alat": "Voltage Regulator",
+    "No Seri": "DPB55-2",
+    "Merk": "OKI",
+    "Spesifikasi": "1kVA, 0-250V",
+    "Fungsi": "Pengatur Tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1S-HAVVcRa_nfoZ9X7TjDL_AvNWCPqPFT"
+  },
+  {
+    "Nama Alat": "Isolation Transformer",
+    "No Seri": "-",
+    "Merk": "-",
+    "Spesifikasi": "110/220V, 50 Hz, 6.8 A, 800 W",
+    "Fungsi": "Pengubah Tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=10CEitzXTk_HZC6JvtXlotBUqoK8IGhhX"
+  },
+  {
+    "Nama Alat": "Tang Ampere",
+    "No Seri": "KYORITSU",
+    "Merk": "Model 2608",
+    "Spesifikasi": "DC 60V, AC 150/300/600V, AC 6/15/60/150/300A, x10Ohm, x1Ohm",
+    "Fungsi": "Pengukur Arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1zSwjBNDNID1t7e3KfTX39URe-hPzF5s9"
+  },
+  {
+    "Nama Alat": "Tang Ampere",
+    "No Seri": "CAM-310",
+    "Merk": "SANWA",
+    "Spesifikasi": "AC 6/15/60/150/300A, 150/300/600V, 1kOhm",
+    "Fungsi": "Pengukur Arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Vw-VfK1BeyaooYevpdKb_CrETOAQ_N80"
+  },
+  {
+    "Nama Alat": "Bor Duduk",
+    "No Seri": "27-18093",
+    "Merk": "MEGA",
+    "Spesifikasi": "2 speeds, 100 W, 220/240 V, 50 Hz, 18000/14000 rpm",
+    "Fungsi": "Melubang Material",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=14OQlMKn-A4fHdjW_h1RzTu25eJhkJsXP"
+  },
+  {
+    "Nama Alat": "Motor AC 3 Fase",
+    "No Seri": "1571002417-1",
+    "Merk": "TECO",
+    "Spesifikasi": "4 Pole, 0.5 HP, 0.37 kW, 50 Hz, 1390 rpm, ins. F, IP55, 380V, 1.21 A, ∆",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1-OpDjBV7NZfopoJUwiv6klS3i9W2NRZ3"
+  },
+  {
+    "Nama Alat": "Motor AC 3 Fase",
+    "No Seri": "-",
+    "Merk": "-",
+    "Spesifikasi": "0.37 kW, 0.5 HP, IP55, IMB 3, 380/660V, 0.93/0.53 A, 1390 rpm, 50 Hz, 4 Pole, Ins. F",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1v6HqY1jMRuu1l0lQiZnxgYrzEnHc7QDP"
+  },
+  {
+    "Nama Alat": "Motor AC 3 Fase",
+    "No Seri": "1571002417-1",
+    "Merk": "TECO",
+    "Spesifikasi": "4 Pole, 0.5 HP, 0.37 kW, 50 Hz, 1390 rpm, ins. F, IP55, 380V, 1.21 A, ∆",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1fJMh64lVpal9Ob2LZGzDjET0I9u7Gjih"
+  },
+  {
+    "Nama Alat": "Motor AC 3 Fase",
+    "No Seri": "-",
+    "Merk": "-",
+    "Spesifikasi": "0.37 kW, 0.5 HP, IP55, IMB 3, 380/660V, 0.93/0.53 A, 1390 rpm, 50 Hz, 4 Pole, Ins. F",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=189oU0g-6436LB9ce2QUuIG-6r4nZHN4K"
+  },
+  {
+    "Nama Alat": "Motor AC 3 Fase",
+    "No Seri": 15050014,
+    "Merk": "HITACHI",
+    "Spesifikasi": "1HP, 4 Pole, 220/380 V, 50 Hz, 3.3/1.9 A, 1420 rpm, Rule: JCE-2137-2000, Rating S1, Ins. F, IP55, IC411, Amb. Temp. 40°C",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1ENo8SlDtMh-VTg5f9ufr9vsrHlOrJR3p"
+  },
+  {
+    "Nama Alat": "Power Supply DC",
+    "No Seri": "GPR-3060D",
+    "Merk": "GW",
+    "Spesifikasi": "1 Phase, 100/120V 6.3A, 220/240V 3.15A, 50/60 Hz, 360 W, 450 VA max, out 0-30V dc 0-6A",
+    "Fungsi": "Catu Daya",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1zW-s8ltkfNnd6Dwvxk8BW8Vv6Wgmh1Vh"
+  },
+  {
+    "Nama Alat": "Power Supply DC",
+    "No Seri": "GPC-1850D",
+    "Merk": "GW",
+    "Spesifikasi": "1 Phase, 100/120/220/240V, 50/60 Hz, 480 W, 600 VA max, out 2x 0-18V dc 0-5A, fix 5V 3A",
+    "Fungsi": "Catu Daya",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1MAGi1yX76eIVTQa2tapy4zA5W7AaI7ai"
+  },
+  {
+    "Nama Alat": "Voltage Regulator",
+    "No Seri": "Model 1.5KE",
+    "Merk": "MATSUNAGA",
+    "Spesifikasi": "Input 220v, output 0v-250v, 1.5kVA, 50-60H",
+    "Fungsi": "Pengatur Tegangan",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1YJZRwSyqIKeIBGJVnDUyKBxTj1ZQVTWB"
+  },
+  {
+    "Nama Alat": "Isolation Transformer",
+    "No Seri": "-",
+    "Merk": "-",
+    "Spesifikasi": "110/220V, 50 Hz, 6.8A, 800W",
+    "Fungsi": "Pengubah Tegangan",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1ZUXs3G9h8BMfaMey15D84gp6Am4YrtXl"
+  },
+  {
+    "Nama Alat": "Gerindra Tangan",
+    "No Seri": "GWS 6-100",
+    "Merk": "BOSCH",
+    "Spesifikasi": "220V, 50/60Hz, 3A, 670W, 100mm, 11000 rpm",
+    "Fungsi": "Alat Potong",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=112GzyjPuMRdjZ9gr8dMAjZn-bLom_dyI"
+  },
+  {
+    "Nama Alat": "Gerindra Tangan",
+    "No Seri": "5600NB",
+    "Merk": "MAKITA",
+    "Spesifikasi": "220V, 3.9A, 50/60Hz, 800W, 4000rpm, 160mm",
+    "Fungsi": "Alat Potong",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1Tkt4qouTCkdTmvUMuAB6-gJIki4CDZqx"
+  },
+  {
+    "Nama Alat": "Digital Clamp Meter",
+    "No Seri": 1350384,
+    "Merk": "KYORITSU",
+    "Spesifikasi": "600VAC/VDC, 400A",
+    "Fungsi": "Alat ukur arus/tegangan AC/DC",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1DCgrFonoNPX4ACzvyQnwAOnkY-HUGbD3"
+  },
+  {
+    "Nama Alat": "Digital Multimeter",
+    "No Seri": "TKR5177",
+    "Merk": "YOKOGAWA",
+    "Spesifikasi": "4x1.5V LR6 Battery, 1000VAC/VDC, 440mA/10A max, 60kOhm, 1000 uF",
+    "Fungsi": "Alat Ukur Listrik",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=12WKjMLDo3voHqJ0DB6zmBoaOIEUVBKRs"
+  },
+  {
+    "Nama Alat": "Voltage Regulator",
+    "No Seri": "DPB55-2",
+    "Merk": "OKI",
+    "Spesifikasi": "1kVA, 0-250V",
+    "Fungsi": "Pengatur Tegangan",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1Zv6rhx2jlghDFJHBGBwZQICjEKWMj-Ji"
+  },
+  {
+    "Nama Alat": "Thermovisi",
+    "No Seri": "15-TG165-111660",
+    "Merk": "FLIR",
+    "Spesifikasi": "3.7V Battery, °C/°F",
+    "Fungsi": "Memvisualisasikan suhu pada suatu objek",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1ZgQjXQJsThcF5U9qSdEjFfk7OL_8w6wE"
+  },
+  {
+    "Nama Alat": "Power Supply",
+    "No Seri": "PS-1502D",
+    "Merk": "YIHUA",
+    "Spesifikasi": "in 220V, 50 Hz, out 9V/5V fix, 0-15V, 2A/500mA",
+    "Fungsi": "Catu Daya",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1YhzRiXQBR6mvP84TzZ8KGN6TPIt7_-76"
+  },
+  {
+    "Nama Alat": "Thermovisi",
+    "No Seri": "in 220V, 50 Hz, out 9V/5V fix, 0-15V, 2A/500mA",
+    "Merk": "FLIR",
+    "Spesifikasi": "3.7V Battery, °C/°F",
+    "Fungsi": "Memvisualisasikan suhu pada suatu objek",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1MEhMbRT3y9MORHml-X5z9UbB1wkQ-Kgb"
+  },
+  {
+    "Nama Alat": "Bor  Duduk",
+    "No Seri": 9937386,
+    "Merk": "KRISBOW",
+    "Spesifikasi": "16mm, 3/4HP, 26 speeds, 220V, 50Hz",
+    "Fungsi": "Melubangi Material",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1cScJCqCoJ6biZdJKF5B7Efc_10h5takV"
+  },
+  {
+    "Nama Alat": "LCR Load",
+    "No Seri": "PE481",
+    "Merk": "Feedback",
+    "Spesifikasi": "50R 100V/2A max, 150 mH 3A max, 470 uF 250V 2.5A max",
+    "Fungsi": "Beban induktansi, kapasitansi, dan resistansi",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1AT-UhhOdA7AMfZmwO0sYiipGuPtOwQaQ"
+  },
+  {
+    "Nama Alat": "LCR Load",
+    "No Seri": "PE481",
+    "Merk": "Feedback",
+    "Spesifikasi": "50R 100V/2A max, 150 mH 3A max, 470 uF 250V 2.5A max",
+    "Fungsi": "Beban induktansi, kapasitansi, dan resistansi",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1KUlZE3Gq_dHkHfIdaJ7_qluf9jxOMlPW"
+  },
+  {
+    "Nama Alat": "Power Electronics Control Unit",
+    "No Seri": "PE481",
+    "Merk": "Feedback",
+    "Spesifikasi": "1/10/100mA, 0.5/5/50/60/240V",
+    "Fungsi": "Kontrol sumber listrik",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1hJP-73ouXIIYpryDhs8SecOz8vkcOTDM"
+  },
+  {
+    "Nama Alat": "Power Electronics Control Unit",
+    "No Seri": "PE481",
+    "Merk": "Feedback",
+    "Spesifikasi": "1/10/100mA, 0.5/5/50/60/240V",
+    "Fungsi": "Kontrol sumber listrik",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1r6gTG-q2I-R4QE4IwYHGDEwTHNy7Ue0q"
+  },
+  {
+    "Nama Alat": "Amper Meter AC",
+    "No Seri": "DL 2109T2A5",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5A",
+    "Fungsi": "Alat ukur arus AC",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1B1PviFeflN9vXBeLy5BgSsMLlLd7yprd"
+  },
+  {
+    "Nama Alat": "Solder Uap",
+    "No Seri": 701,
+    "Merk": "LUKEY",
+    "Spesifikasi": "220/240V, 50/60 Hz, 750 W, 200-480°C",
+    "Fungsi": "solder-oldering komponen",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=13S3NCV8g8u6ysR86PwnQcd5RYFHZundI"
+  },
+  {
+    "Nama Alat": "Gergaji Duduk",
+    "No Seri": "SJ401",
+    "Merk": "MAKITA",
+    "Spesifikasi": "220/240V, 1.2A, 50/60 Hz, 400-1600 rpm",
+    "Fungsi": "Alat Potong",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1PmhcEBEKyTpyaKPnLEqgeAFEiRSrPxaG"
+  }
+]

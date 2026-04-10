@@ -1,0 +1,1703 @@
+[
+  {
+    "Nama Alat": "Auxiliary Contactor",
+    "No Seri": "730 12",
+    "Merk": "Leybold",
+    "Spesifikasi": "4NO 4NC 4S 40E",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1_hE4ym9JzYPK_g-nAWDflYAqg5vALRCy"
+  },
+  {
+    "Nama Alat": "Motor 3 Fasa",
+    "No Seri": 73141,
+    "Merk": "Leybold",
+    "Spesifikasi": "Typ 75141, CLASS 0.1, ∆/Y 400/692 V, 0.32/0.19 A, 0.12 kW, cos phi 0.74, 1415 U/min, 50 Hz, Is. B/F, IP20, 18418, VDE 0530",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/file/d/1zoTuttZHKMoetELEWQPBC_fSXaISXZwC/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Motor 1 Fasa",
+    "No Seri": "DL 10130",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "DL 10130 a, 1~M, IEC 34-1, 220 V, 120 W (200 W), 2700 min -1 (2750min -1), 1.4 A (1.3A), cosphi 0.8 (0.95), 50 Hz, F, IP 55, 6.3 uF",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/file/d/18uX43V_GtEeoeeciDI-gWKv5LazD4gMF/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Motor DC Compound",
+    "No Seri": "63-120",
+    "Merk": "Feedback",
+    "Spesifikasi": "Supply 220 V dc",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1XAYUyM-tAUi9B48z3I5JaecVo5mjK2K1"
+  },
+  {
+    "Nama Alat": "Motor/Generator Slip Ring Sinkron/Asinkron 3 Fasa",
+    "No Seri": "64-520",
+    "Merk": "Feedback",
+    "Spesifikasi": "Supply Stator 220V Delta, 380V Star",
+    "Fungsi": "Penggerak/Pembangkit",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1IDnUS9G3wp7Fa4i_l5divk-SMh5Xtl-b"
+  },
+  {
+    "Nama Alat": "Motor 3 Fasa",
+    "No Seri": "DL 1021",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "DL 10200A1, 3 ~ M, IEC 34-1, 220 V (Delta) / 380 V (Star), 4.7 A (Delta) / 2.7 A (Star), 1.1 kW, Cos phi 0.8, 2800 min (rpm), 50 Hz, F, IP 55",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1z-5apXBXeT9MEBbRWCFKiALTYSHSnNrE"
+  },
+  {
+    "Nama Alat": "Generator Sinkron 3 Fasa",
+    "No Seri": "DL 10190",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "DL 10190, 3-G, IEC 34-1, 220/380V,  0.53/0.31, 200VA, cosphi 1, 3000 rpm, 50Hz, 85V,0.34A, F, IP23, SYNCHRONOUS",
+    "Fungsi": "Pembangkit",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1VyQIrfR9Nv3baItqTLfJYoWG4_Ckaboj"
+  },
+  {
+    "Nama Alat": "Motor Induksi 3 Fasa",
+    "No Seri": "64-530",
+    "Merk": "Feedback",
+    "Spesifikasi": "Squirrel Cage, Two Pole, Supply 380V Delta, 660V Star",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Rh-kTJPugWNXp7Gjkoj3OS2LSAwV4iV9"
+  },
+  {
+    "Nama Alat": "Motor DC",
+    "No Seri": 98463.1,
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "1x200V, 400W, 4000 rpm max",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1NDNb8hEBeBLB9NfSDeNVcOAqdqOI0IkO"
+  },
+  {
+    "Nama Alat": "Motor DC",
+    "No Seri": "DL 1019P 99526",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "20V, 4000 rpm, M : 20 Nm",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1GGEKwFZuqUuvOM1RwXsdUksIhRBZsllG"
+  },
+  {
+    "Nama Alat": "Beban Variabel",
+    "No Seri": "DL 1004DCA",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Q = 3x85VAr, 220V Delta, 380V Star",
+    "Fungsi": "Beban",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1kcXfI73LmD2Z0z5IA3daiCkulEzrKsq3"
+  },
+  {
+    "Nama Alat": "Beban Variabel",
+    "No Seri": "DL 1017C",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Q=3x275 VAr, 220V Delta, 380V Star",
+    "Fungsi": "Beban",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1f0afvwaQ4ng0boVldeOOkzoPz6gil8X0"
+  },
+  {
+    "Nama Alat": "Beban Variabel",
+    "No Seri": "DL 1017L",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Q=300VAr, 220V Delta, 380V Star",
+    "Fungsi": "Beban",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1YZ5FUaPFEWaoX64uBywuoFq88URTYMMI"
+  },
+  {
+    "Nama Alat": "Power Supply",
+    "No Seri": "DL1013T1",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "AC 0:380V, 8A",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1EwN1VrsQi-7uxx47ZjER8-3P435xHnfS"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL 2109T1A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "1A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1O1WVNRMrZWQL5SjA170_9VFMzjyvXhzf"
+  },
+  {
+    "Nama Alat": "Amperemeter AC/DC",
+    "No Seri": "DL2109T12t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5A, 5A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1w5EDNyz_VxRhzo-dZh4MZEvmncfZqS23"
+  },
+  {
+    "Nama Alat": "Voltmeter AC",
+    "No Seri": "DL2109T3PV",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "125/250/500 V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1X4vG68iAXJizYpzCMfgRAVjvP3C2SEzs"
+  },
+  {
+    "Nama Alat": "Voltmeter AC/DC",
+    "No Seri": "DL2109T15t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "250/500 V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=15XLYHxhcmfWMGF6tckKDLZTzppdXbJIu"
+  },
+  {
+    "Nama Alat": "Voltmeter AC/DC",
+    "No Seri": "DL 2109T15t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "250V, 500V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1QFvYM9TIdfk94XvhSatk06qaN6v3JxPB"
+  },
+  {
+    "Nama Alat": "Ampermeter AC/DC",
+    "No Seri": "DL2109T12t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5A, 5A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Co7SP4f-eMbrWnPqwiR07g6PW1AOyjMn"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL2109T2A5",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1H5XgCb9gTgx6j_9ae9a-SJ4DpPGrpzpl"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL2109T52",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "4.5 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1sStVSRNlDrbNOblt6QLHFL7kUVk010nH"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL2109T1A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "1 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1DnRGbv86NQV35i7CD7YxjPpIuoptTUQg"
+  },
+  {
+    "Nama Alat": "Voltmeter AC/DC",
+    "No Seri": "DL2109T15t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "250/500V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Am2VPAlSI2KksGrfZsxGN_WkrMSW2XBc"
+  },
+  {
+    "Nama Alat": "Voltmeter AC",
+    "No Seri": "DL2109T3PV",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "125/250/500V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1wO7a4mQGt2v1P7Qe_HocyIcb9i9AR5T_"
+  },
+  {
+    "Nama Alat": "Voltmeter AC",
+    "No Seri": "DL2109T15i",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "250/500V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1IjcXCLUlHdjzcqB49jOcCcxaTdR7MG8m"
+  },
+  {
+    "Nama Alat": "Voltmeter AC/DC",
+    "No Seri": "DL2109T15t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "250V, 500V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Cyo0iexASOn8Ams2vGFIn9oWxNxJ--Ra"
+  },
+  {
+    "Nama Alat": "Voltmeter AC",
+    "No Seri": "DL2109T1PV",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "600 V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Q5zD_NGGL1SBZpdZ9fFU8lF7_HxRD_RA"
+  },
+  {
+    "Nama Alat": "Voltmeter & Amperemeter DC",
+    "No Seri": "68-110",
+    "Merk": "Feedback",
+    "Spesifikasi": "50V/250V/500V, 1A/5A",
+    "Fungsi": "Alat ukur tegangan dan arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1wg4zmPYSQ0TyV8RsY-dWaI-THI58_TcH"
+  },
+  {
+    "Nama Alat": "Star/Delta Switch-Electromagnetic",
+    "No Seri": "65-121",
+    "Merk": "Feedback",
+    "Spesifikasi": "Motor AC 3 Phase, Star to Delta Timer",
+    "Fungsi": "Saklar star delta motor 3 fasa",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1A7GU5XSaDXoqgAqMtq9siYxyDLVyZCEi"
+  },
+  {
+    "Nama Alat": "DC Voltmeter & Amperemeter",
+    "No Seri": "68-110",
+    "Merk": "Feedback",
+    "Spesifikasi": "50V/250V/500V, 1A/5A/10A",
+    "Fungsi": "Alat ukur tegangan dan arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1yHSfFI6hAwPE5Xppc18gkxKvzk2wAc3B"
+  },
+  {
+    "Nama Alat": "Switch Resistance Starter",
+    "No Seri": "65-100",
+    "Merk": "Feedback",
+    "Spesifikasi": "DC Supply, Fuse 4A(T)",
+    "Fungsi": "Saklar starting motor",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=14mUwpy6wLweKAZdcAA-iyytlCUsm0zvZ"
+  },
+  {
+    "Nama Alat": "Star/Delta Switch-Electromagnetic",
+    "No Seri": "65-121",
+    "Merk": "Feedback",
+    "Spesifikasi": "Motor AC 3 Phase, Star to Delta Timer",
+    "Fungsi": "Saklar star delta motor 3 fasa",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1cD62iOS54We38d2PqeoaZeYjdhSn45JR"
+  },
+  {
+    "Nama Alat": "Variable ac/dc Supply",
+    "No Seri": "Seri 60-120",
+    "Merk": "Feedback",
+    "Spesifikasi": "2.5A Max, Output 0-240V ac, 0-220 dc",
+    "Fungsi": "Catu daya AC dan DC",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1SIUOi8VvSFpGzFjuPym_89gb5nhTQIfq"
+  },
+  {
+    "Nama Alat": "Variable Resistance",
+    "No Seri": "67-116",
+    "Merk": "Feedback",
+    "Spesifikasi": "1000 Ohm, Fuse 0.5 A",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1gNtahrh59nyfJCUmrCRNuotaN0CdHNst"
+  },
+  {
+    "Nama Alat": "Analogue Speed Indicator",
+    "No Seri": "68-420",
+    "Merk": "Feedback",
+    "Spesifikasi": "DC Input 2V/1000rpm, 0.2mA / 1000rpm",
+    "Fungsi": "Alat ukur kecepatan motor",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1wBeO8uPXUYkOVCTQe3cWDenmW32VEH6X"
+  },
+  {
+    "Nama Alat": "Switche Resistance Load",
+    "No Seri": "67-140",
+    "Merk": "Feedback",
+    "Spesifikasi": "125 - 3900 Ohm, 250 V, 2 A",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1YBJTpifQv6rddifHITMvwcxKBi3G3DIM"
+  },
+  {
+    "Nama Alat": "Switche Resistance Load",
+    "No Seri": "Seri 67-140",
+    "Merk": "Feedback",
+    "Spesifikasi": "125 - 3900 Ohm, 250V/2A",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1WuWOi9Z60v4c-4rdrd8z8XTdDU327YPc"
+  },
+  {
+    "Nama Alat": "Three Phase Capacitive Load",
+    "No Seri": "67-210",
+    "Merk": "Feedback",
+    "Spesifikasi": "14uF max 250V ac max",
+    "Fungsi": "Beban kapasitif 3 fasa",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1nVhF3_1NkLHgkXIFFwNdLO7ijQtGkzuE"
+  },
+  {
+    "Nama Alat": "Switched Resistance Load",
+    "No Seri": "67-140",
+    "Merk": "Feedback",
+    "Spesifikasi": "120-3900 Ohm, 250V,  Fuse 2A",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1yCt1fTkvXMhWU3eH7laG6wXUXQLPCnb3"
+  },
+  {
+    "Nama Alat": "Single & Three Phase Measurements",
+    "No Seri": "68-100",
+    "Merk": "Feedback",
+    "Spesifikasi": "3 phase system 3/4 wire",
+    "Fungsi": "Alat ukur tegangan dan arus",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1-ZVKZu8pAgeNjWGw1u6XDEs0J5dgyESP"
+  },
+  {
+    "Nama Alat": "Inductive Load",
+    "No Seri": "67-300",
+    "Merk": "Feedback",
+    "Spesifikasi": "220V ac /1A, 700mH, Fuse 2A(T)",
+    "Fungsi": "Beban induktif",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/file/d/1MZR1HUCKzSjzk5sPK8G-sAS8fJ6SWqNR/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Switche Resistance Load",
+    "No Seri": "67-140",
+    "Merk": "Feedback",
+    "Spesifikasi": "125 - 3900 Ohm, 250V/2A",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1z8qyBHnTeiOXHe0XICZzc3iPShdoQhOw"
+  },
+  {
+    "Nama Alat": "Inductive Load",
+    "No Seri": "67-300",
+    "Merk": "Feedback",
+    "Spesifikasi": "220V ac, 1A, 700mH, Fuse 2A(T)",
+    "Fungsi": "Beban induktif",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1mvEbRQcXWztz610Eegt0qFHTCeFF2LNq"
+  },
+  {
+    "Nama Alat": "Multichannel I/O",
+    "No Seri": "68-500",
+    "Merk": "Feedback",
+    "Spesifikasi": "250V, 500V, ac/dc, 1-10A ac/dc",
+    "Fungsi": "Channel input output",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1I09c8o3Yq9t60MMJatecNjuy2dQt7-Tn"
+  },
+  {
+    "Nama Alat": "Multichannel I/O",
+    "No Seri": "68-500",
+    "Merk": "Feedback",
+    "Spesifikasi": "250V 500V ac/dc, 1A 10A ac/dc",
+    "Fungsi": "Channel input output",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1H8KoJMbvEIqqM3xO_84rmwN9niLV2WEI"
+  },
+  {
+    "Nama Alat": "Multichannel I/O",
+    "No Seri": "68-500",
+    "Merk": "Feedback",
+    "Spesifikasi": "250V 500V ac/dc, 1A 10A ac/dc",
+    "Fungsi": "Channel input output",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1jw14bpcuZesLuiXqX5GnRx7VEHIg446J"
+  },
+  {
+    "Nama Alat": "Excitation Rheostat",
+    "No Seri": "DL 10205A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "I max 0.2A",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1TwCMKSvpwvH9yUEEUQtb6RhrBs-DIqji"
+  },
+  {
+    "Nama Alat": "Voltage Regulator ac/dc",
+    "No Seri": "DL2108T01",
+    "Merk": "DE LORENZO  Rusak",
+    "Spesifikasi": "ac/dc 0 - 220V, 0.6 A",
+    "Fungsi": "Voltage regulator",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1a5aLQF3Vc8Fk3U5jKDe71mGm8PYjn1Kc"
+  },
+  {
+    "Nama Alat": "Speed Measurement",
+    "No Seri": "DL 202501",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "1500, 3000, 6000 rpm",
+    "Fungsi": "Alat ukur kecepatan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1RzdSIKelLBRBVnoAs5evNjceojvkj9qq"
+  },
+  {
+    "Nama Alat": "Transformator",
+    "No Seri": "DL10100A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "220V, (2x110V), 300VA",
+    "Fungsi": "Pengubah tegangan",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1fo93pL1g0C8KUg7nLx_5fW3gS4FdaftP"
+  },
+  {
+    "Nama Alat": "Cos phi Meter",
+    "No Seri": "DL 2109T27",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "0.1-30A, 3-1000V",
+    "Fungsi": "Alat ukur faktor daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1RYd8PE0h6sfgVg1zg1-yy7FKdeAeeSRK"
+  },
+  {
+    "Nama Alat": "Cos phi Meter",
+    "No Seri": "DL2109T9t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5A, 5A, 380V",
+    "Fungsi": "Alat ukur faktor daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Azac-cSidkltCAkSs5-cFLGjCPAxvs8K"
+  },
+  {
+    "Nama Alat": "Cos phi Meter",
+    "No Seri": "DL 2109T27",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "0.1-30 A, 3-1000 V",
+    "Fungsi": "Alat ukur faktor daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1mjMxuvALmuEjIpi9P4gGnIdZfJVpHc6C"
+  },
+  {
+    "Nama Alat": "RMS Meter",
+    "No Seri": "DL209T33",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "RMS A/V, AC/DC, 0.1/0.3/1/3/10/30A, 3/10/30/100/300V",
+    "Fungsi": "Alat ukur tegangan dan arus AC/DC",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1_i1cUt0q0cYwMLMnMALZ7gaTNefUyYzi"
+  },
+  {
+    "Nama Alat": "RMS Meter",
+    "No Seri": "DL209T33",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "RMS A/V, AC/DC, 0.1/0.3/1/3/10/30A, 3/10/30/100/300V",
+    "Fungsi": "Alat ukur tegangan dan arus AC/DC",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1h9U42AoluOBkjQs60sCcyluQ3O0qN50K"
+  },
+  {
+    "Nama Alat": "RMS Meter",
+    "No Seri": 72710,
+    "Merk": "Leybold",
+    "Spesifikasi": "RMS A/V, AC/DC, 0.1/0.3/1/3/10/30A, 3/10/30/100/300V, U : 230V, P : 10VA, F : 48-62Hz",
+    "Fungsi": "Alat ukur tegangan dan arus AC/DC",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1qSYU1mFMWwXEoygAnkcePfvB1UfMwERt"
+  },
+  {
+    "Nama Alat": "RMS Meter",
+    "No Seri": 72710,
+    "Merk": "Leybold",
+    "Spesifikasi": "RMS A/V, AC/DC, 0.1/0.3/1/3/10/30A, 3/10/30/100/300V, U : 230V, P : 10VA, F : 48-62Hz",
+    "Fungsi": "Alat ukur tegangan dan arus AC/DC",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Oaq1S_oBlbjhqdb3qS0Un-5EsEJoPlMQ"
+  },
+  {
+    "Nama Alat": "Power Meter",
+    "No Seri": 72711,
+    "Merk": "LEYBOLD",
+    "Spesifikasi": "U=230V, P=10VA, F=48-62Hz",
+    "Fungsi": "Alat ukur daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1ayVTRI1acBBcwW2_NaWMtkxKlyXs3et_"
+  },
+  {
+    "Nama Alat": "RMS Motor",
+    "No Seri": 72710,
+    "Merk": "Leybold",
+    "Spesifikasi": "RMS A/V, AC/DC, 0.1/0.3/1/3/10/30A, 3/10/30/100/300V, U : 230V, P : 10VA, F : 48-62Hz",
+    "Fungsi": "Alat ukur tegangan dan arus AC/DC",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1zr7PfjzNoWvWY7j1MK-YLxEmTj2aNnGx"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 11",
+    "Merk": "Leybold",
+    "Spesifikasi": "2no 2nc 2s 20e",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=13jN20U4PXd8069NwJn696jGWCT7oJD50"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 11",
+    "Merk": "Leybold",
+    "Spesifikasi": "2no 2nc  2s 20e",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1awDV76PlnS_BnEz_q2GFSrjw5BnB24cC"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 11",
+    "Merk": "Leybold",
+    "Spesifikasi": "2no 2nc 2s 20e",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=118ns_8AcfiOjVPDjsDq_0FeBkdCS3v2d"
+  },
+  {
+    "Nama Alat": "Aux Contactor  kondisi rusak",
+    "No Seri": "730 11",
+    "Merk": "Leybold",
+    "Spesifikasi": "2no 2nc  2s 20e",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1p7MUv89i_aZaAyDU7Gkpna-YXaxllLNH"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 15",
+    "Merk": "Leybold",
+    "Spesifikasi": "2no 2nc 2s 20",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1VqqA3I099_GQFTzWkjnTqk34DoqYAB44"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 15",
+    "Merk": "Leybold",
+    "Spesifikasi": "2no 2nc 2s 20",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1R1SfWIIKpiD69-EsDmih73OnNawN2hAa"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 15",
+    "Merk": "Leybold",
+    "Spesifikasi": "2no 2nc 2s 20",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=15CgzzvtKSGQ9YJfXdj6qX6vl29nfOEGG"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 15",
+    "Merk": "Leybold",
+    "Spesifikasi": "2no 2nc 2s 20",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=14A5zrontzALzdxNJaJ5sbvUAfO8Mj8Zo"
+  },
+  {
+    "Nama Alat": "Aux Contactor   kondisi rusak",
+    "No Seri": "730 12",
+    "Merk": "Leybold",
+    "Spesifikasi": "4NO 4NC 4S 40E",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=14YFA601-HZ-C835hi1jGRWyhZPdsRcFk"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 15",
+    "Merk": "Leybold",
+    "Spesifikasi": "2NO 2NC 2S 20",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1iO71v-5RSSg459n0bGDUyJAnVtBs3PGx"
+  },
+  {
+    "Nama Alat": "Aux Contactor with Timer",
+    "No Seri": "730 10",
+    "Merk": "Leybold",
+    "Spesifikasi": "3NO 3NC 3S 30",
+    "Fungsi": "Saklar dengan pewaktu",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1iQvklsZgWY_gu-gLSfuoWRTUJAmmdmwE"
+  },
+  {
+    "Nama Alat": "Power Contactor",
+    "No Seri": "730 13",
+    "Merk": "Leybold",
+    "Spesifikasi": "3-Pole, 2NO, 2NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Wc0lItHrZsN1-hVRtaoSuegBQmFtgjiY"
+  },
+  {
+    "Nama Alat": "Aux Contactor",
+    "No Seri": "730 10",
+    "Merk": "Leybold",
+    "Spesifikasi": "3NO 3NC 3S 30",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1tUm7V-264jiVFDLf8Cd-YtzhnPRpU-nK"
+  },
+  {
+    "Nama Alat": "Isolation Amplifier Four Channel",
+    "No Seri": "735 261",
+    "Merk": "Leybold",
+    "Spesifikasi": "U1=230V, P1=25VA, F=40-60 Hz",
+    "Fungsi": "Penguat",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=147Dz8r5oq6MsP4GY0ecOPhW6vaOBypsH"
+  },
+  {
+    "Nama Alat": "Isolation Amplifier Four Channel",
+    "No Seri": "735 261",
+    "Merk": "Leybold",
+    "Spesifikasi": "U1=230V, P1=25VA, F=40-60 Hz",
+    "Fungsi": "Penguat",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1eY1N5wW7csnjlPAFnE3C8VHyXJ_cQBrM"
+  },
+  {
+    "Nama Alat": "Auxiliary Contactor",
+    "No Seri": "730 11",
+    "Merk": "Leybold",
+    "Spesifikasi": "2NO 2NC 2S 20E",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1M9kk8YiLxe2GexFhwxnBABlKInigQP7b"
+  },
+  {
+    "Nama Alat": "Selector Switch",
+    "No Seri": "730 09",
+    "Merk": "Leybold",
+    "Spesifikasi": "DPDT, 1NO, 1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1iCAG9QJfqSyh2zkMshrj4teu67UcAOpm"
+  },
+  {
+    "Nama Alat": "Push Button",
+    "No Seri": "730 01",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1QwvwVizw5QA1Gsbn51ceBWCk8Tag1VPY"
+  },
+  {
+    "Nama Alat": "Push Button",
+    "No Seri": "730 01",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1a6vJRR0w4gbIHgJs71IGwHUBKsSUSleL"
+  },
+  {
+    "Nama Alat": "Push Button",
+    "No Seri": "730 04",
+    "Merk": "Leybold",
+    "Spesifikasi": "3NO, 3NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1OqHZqLN50HS3iFKi8LFiqSq4uafLYb_-"
+  },
+  {
+    "Nama Alat": "Push Button",
+    "No Seri": "730 04",
+    "Merk": "Leybold",
+    "Spesifikasi": "3NO, 3NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Rj-pxLJqnoDPN03KU47vW_lGcLPF-2YC"
+  },
+  {
+    "Nama Alat": "Motor Protection Relay",
+    "No Seri": "731 45",
+    "Merk": "Leybold",
+    "Spesifikasi": "0,24-0,4A",
+    "Fungsi": "Proteksi motor",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=11hLHdlfsaU6b4cU1eZKo8_ulnMFBG2CO"
+  },
+  {
+    "Nama Alat": "Double Push-Button Switch",
+    "No Seri": "730 03",
+    "Merk": "Leybold",
+    "Spesifikasi": "2NO, 2NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1fLDD44RuJetuyCjEyCHlxJZSRP8irwVt"
+  },
+  {
+    "Nama Alat": "Double Push-Button Switch",
+    "No Seri": "730 03",
+    "Merk": "Leybold",
+    "Spesifikasi": "2NO, 2NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1KQdob9heruf7j3fwhR7iML5_TffoKR78"
+  },
+  {
+    "Nama Alat": "Double Push-Button Switch",
+    "No Seri": "730 03",
+    "Merk": "Leybold",
+    "Spesifikasi": "2NO, 2NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1k4p7qk1D5hz2IlnnEw1ohUIAjpOG8_Kn"
+  },
+  {
+    "Nama Alat": "Time Relay",
+    "No Seri": "730 07",
+    "Merk": "Leybold",
+    "Spesifikasi": "Delaaed On, 2NO, 2NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1Q4Pti3UhAjYdxjMHdxwx9ileLfS5rNPJ"
+  },
+  {
+    "Nama Alat": "Double Push-Button Switch",
+    "No Seri": "730 03",
+    "Merk": "Leybold",
+    "Spesifikasi": "Double PB, 2NO, 2NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1hVMgidPbGLWdYoyvjYC-Ol-5YKBqM02n"
+  },
+  {
+    "Nama Alat": "Double Push-Button Switch",
+    "No Seri": "730 03",
+    "Merk": "Leybold",
+    "Spesifikasi": "Double PB, 2NO, 2NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1ND4zS-WODNDPyIMKrpn1wLM2vW3gTskp"
+  },
+  {
+    "Nama Alat": "Alat Ukur Kecepatan dan Torsi",
+    "No Seri": "DL 10055ETMI",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Max 3000 rpm, 2.5Nm",
+    "Fungsi": "Alat ukur kecepatan dan torsi",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1zcp0Q8I3N4XPEniPtoC9fv72fXzd0AbK"
+  },
+  {
+    "Nama Alat": "Resistor Variabel",
+    "No Seri": "20-20089",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Max 600V ac/dc, 130ohm, 1.0A Imax 1.4A /15min",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1OflJxVIvdDHix8X05qxn5RcFkArwISvK"
+  },
+  {
+    "Nama Alat": "Resistor Variabel",
+    "No Seri": "53 723",
+    "Merk": "Leybold",
+    "Spesifikasi": "1.5A, 320 Ohm",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1y_O2WoKs7Z8eHxFk5R8b3_IwTym-4J9P"
+  },
+  {
+    "Nama Alat": "Resistor Variabel",
+    "No Seri": "20-20089",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Max 600V ac/dc, 100ohm, 1.0A Imax 1.4A /15min",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1QO8e_kuKPvGzG2gFWjGy0M97PMdQOUf0"
+  },
+  {
+    "Nama Alat": "Resistor Variabel",
+    "No Seri": "60VV8158",
+    "Merk": "Yokogawa",
+    "Spesifikasi": "39ohm, 2.0A",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1FkgY76GEcB7g_HT5XSdhMiU1Z_6VYUqJ"
+  },
+  {
+    "Nama Alat": "Power Supply",
+    "No Seri": "DL 1055TT",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Max 250 V AC in, 42V-3A, 24V-6A, 12V-12A, AC/DC ou",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1bcNHLvZ_N5bPTigrprqVZujQjcMZQEX0"
+  },
+  {
+    "Nama Alat": "Power Supply",
+    "No Seri": "DL 10281",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "3 phase 380V in, DC out 32V-14A, 42V-10A, 40V-5A, 8V-12A, AC out 24V-14A, 42V-10A, 48V-5A, 10V-12A",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1UCvTnLZE6SARsFFBvI37rWqkH3pXIlCn"
+  },
+  {
+    "Nama Alat": "Autotrafo",
+    "No Seri": "245M",
+    "Merk": "Matsunaga",
+    "Spesifikasi": "Fuse 5A, in 220V, out 0-240V",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1_FzVBBO7eUZLWrkrO0JvmW2cM789EBlz"
+  },
+  {
+    "Nama Alat": "Motor Protection Relay",
+    "No Seri": "731 45",
+    "Merk": "Leybold",
+    "Spesifikasi": "0,24A - 0,4A",
+    "Fungsi": "Saklar",
+    "Kondisi": "Baik",
+    "Foto Alat": "https://drive.google.com/open?id=1iQ7j5pRQ36nQGE7n2HgvVmOl5JjtL-Au"
+  },
+  {
+    "Nama Alat": "Motor DC Shunt",
+    "No Seri": "DL 10200A1",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "DL 10200A1, -M, IEC 34-1, 220 V, 1.4 A, 200 W, 3000 min, 130 V, 0.045 A, F, IP23, SHUNT",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "IMG20250113093017 - Shofiyan Tamam.jpg"
+  },
+  {
+    "Nama Alat": "Motor DC Shunt",
+    "No Seri": "DL 10200A1",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "DL 10200A1, -M, IEC 34-1, 220 V, 1.4 A, 200 W, 3000 min, 130 V, 0.045 A, F, IP23, SHUNT",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/file/d/1sx4n2RxaDBnXshFCEtl8vm2SJxcED2H-/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Motor DC Series",
+    "No Seri": "DL 10210 a",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "DL 10210 a, -M, IEC 34-1, 205V, 1.6A, 200W, 3000min–¹, F, IP23, SERIES",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/file/d/1COAIrYxkpS7e7lE2Q21P8l3aGFZz6Qz5/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Motor Repulsi",
+    "No Seri": "DL 10170 a",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "DL 10170 a, 1~M, IEC 34-1, 220V, 1.1A, 30W, cos phi 0.9, 3000min, 50Hz, F, IP20, REPULSION",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/file/d/1nMmnFaHZhBCL0I-W2FobXHGLut2ETnL7/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Motor Series Universal",
+    "No Seri": "63-100",
+    "Merk": "Feedback",
+    "Spesifikasi": "Supply 220 V ac/dc",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/file/d/1zbNfnjd6j2aFkUFnmzWPYvdBgs8ZXphR/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Motor Induksi 3 Fasa",
+    "No Seri": "64-530",
+    "Merk": "Feedback",
+    "Spesifikasi": "Squirrel Cage, Two Pole, Supply 380 V ∆, 660 V Y",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/file/d/1V1ndA1mRVR5cOcQSvPvIOFJRVc4kexiS/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Motor/Generator Sinkron 3 Fasa-Rotor lilit",
+    "No Seri": "64-510",
+    "Merk": "Feedback",
+    "Spesifikasi": "Rotor 150 V dc, Stator 220 V ∆, 380 V Y",
+    "Fungsi": "Penggerak dan Pembangkit",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/file/d/1elyvLk82xkDvR3MUMjj-xpZq3sVzOax8/view?usp=drive_link"
+  },
+  {
+    "Nama Alat": "Motor 3 Fasa",
+    "No Seri": "DL 10115A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "IEC 34-1, 220/380V Delta/Star, 1/0.6 A Star/Delta, 180 W, cos phi 0.8, 2700 rpm, 50Hz, F, IP 55",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1rAfto6x7XMMMuFDxbFeuo61wtCK4-XOl"
+  },
+  {
+    "Nama Alat": "Motor Slip Ring 3 Fasa",
+    "No Seri": "73163 class 0.1",
+    "Merk": "Leybold",
+    "Spesifikasi": "400V Star, 230V Delta, 0,1 kW, 1350 U/min, Faktor Daya 0.55, 50 Hz, 0.6A Star, 1.15A Delta",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1o_uGWfSgUm0q5liKns9pQyEGZ-0tsjTr"
+  },
+  {
+    "Nama Alat": "Generator Sinkron 3 Fasa",
+    "No Seri": "DL 1026 A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "220V (delta), 380V (star), 1.1 kVA, 3000 (rpm), 190V, 2.9A(delta), 1.7A (star), PF 1, 50Hz, 0.47A, F, IP44",
+    "Fungsi": "Pembangkit",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1NIJSM-2NyZq3adm6_qHz6NQvctBL2NIy"
+  },
+  {
+    "Nama Alat": "Motor DC Shunt",
+    "No Seri": "DL 1023PS",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "220V, 10A, 1.8 kW, 3000 rpm, 170V, 0.65A, IEC 34-1, F, IP 20, Separated",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1mjs5STerbmPqCN4PqJ2_gG0N97puYjUz"
+  },
+  {
+    "Nama Alat": "Motor 1 Fasa",
+    "No Seri": "0021370",
+    "Merk": "LAKONI",
+    "Spesifikasi": "Motor Class B, IP 54, lo 0,25 HP, li 2,5 A, V 180-220, 1400 RPM, 50 Hz, Cap 75 uF/220V",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1jqtxgpiAtG5oRBQUnnM6XFNNmnBxndCC"
+  },
+  {
+    "Nama Alat": "Motor Universal ac/dc 1 Fasa",
+    "No Seri": "DL 10150 a",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "DL 10150 a, IEC 34-1, 220V-210V, 15A-18A, cos phi 0.9, 3300 rpm, 50Hz,F, IP23",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1EdHCRZBJ9QxHOUBXfQ8RBWFo3VLGfZU1"
+  },
+  {
+    "Nama Alat": "Motor 1 Fasa",
+    "No Seri": "XPD-150",
+    "Merk": "LOTUS",
+    "Spesifikasi": "150W, 220V, 1.4A, 4P, 12 mikro farad, class B",
+    "Fungsi": "Penggerak",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1avfdbxUE9s8SyQQaCeSdTEu-52Iyr14o"
+  },
+  {
+    "Nama Alat": "Beban Variabel",
+    "No Seri": "DL 1017R",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "P = 3x400W,  220V Delta/380V Star",
+    "Fungsi": "Beban",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1NnhqQAlD0vsHq4pLKV9E-TOWgTLQUMvc"
+  },
+  {
+    "Nama Alat": "Power Supply",
+    "No Seri": "DL 10016a",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "AC 3 Fasa  380 V 3 A, DC 220 V 5 A",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1fCJmsHypsQBvmVfNgiJ0ga7roAfWYiJT"
+  },
+  {
+    "Nama Alat": "Beban Variabel",
+    "No Seri": "DL 1017R",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "P = 3x400W, 220/380V delta/star",
+    "Fungsi": "Beban",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1ZtAmrmc-vijrVy5Q0J930DH81pxSclSZ"
+  },
+  {
+    "Nama Alat": "Power Supply",
+    "No Seri": "DL 10016a",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "AC 0:380V 3A, DC 0:220V 5A",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1-VGdTtdo7O3RoU6WYI9Tf_cn3fzr70dt"
+  },
+  {
+    "Nama Alat": "Beban Variabel",
+    "No Seri": "DL 1017R",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "P = 3x400W, 220V Delta, 380V Star",
+    "Fungsi": "Beban",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1hQvI9juVXGB5BV-f5gzlZpqkf1J2jypy"
+  },
+  {
+    "Nama Alat": "Voltmeter AC",
+    "No Seri": "DL 2109T3PV",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "125V, 250V, 500V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1rhJq_1YNvzIjMu2nUA3ArMMAEtqjUOPa"
+  },
+  {
+    "Nama Alat": "Amperemeter AC/DC",
+    "No Seri": "DL 2109T12t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "0,5A, 5A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1Lt2T0GBEmf2AhnUHf4sb9MWKJ4t3gKWt"
+  },
+  {
+    "Nama Alat": "Voltmeter AC",
+    "No Seri": "DL2109T3PV",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "125V, 250V, 500V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1ggiTNZhD3OdXdQ2oUg-n_vEkznThxDVd"
+  },
+  {
+    "Nama Alat": "Amperemeter AC/DC",
+    "No Seri": "DL2109T12t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2,5A, 5A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1XXJj0Tb3FHc05CD4GNmyDIFM_1k9XzaB"
+  },
+  {
+    "Nama Alat": "Wattmeter AC",
+    "No Seri": "DL2109T17t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "60W, 2,5A , 5A, 240V, 480V",
+    "Fungsi": "Alat ukur daya",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1O_KkaTmvW0sCFY8jJqgp63wksT0cArXi"
+  },
+  {
+    "Nama Alat": "Amperemeter Generator",
+    "No Seri": "DL2109T2A5",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1yTBEmYfsKRz__-wvQeu-5J0id2COzbbm"
+  },
+  {
+    "Nama Alat": "Amperemeter AC/DC",
+    "No Seri": "DL2109T12t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5A, 5A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1q1-FkcZTGHZwfYRZ3MHyq1jiU5NmmwFT"
+  },
+  {
+    "Nama Alat": "Amperemeter Generator",
+    "No Seri": "DL2109T1A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "1 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1GlvcG4baDSvMFNg28mKQZEeSqdI_zEvb"
+  },
+  {
+    "Nama Alat": "Amperemeter PLN (AC)",
+    "No Seri": "DL2109T2A5",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1uPKYHq8Ixxo04ST5CZRYUOVt9SJscAfI"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL2109T1A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "1 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1HY-pLK--kd-VAxuUqsFnShgpysyfZ2jl"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL 2109T5A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "4.5 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1RU3PtmuybWknBw93bpyoADX6TNn3kstB"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL2109T5A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "4.5A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1q8GkOE-A6Yc5iwQIPRd1GuYbaUi6jn3y"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL2109T1A",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "1 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1CNNWCsqNGrMrXiDwsALh9n3gag3yQueB"
+  },
+  {
+    "Nama Alat": "Voltmeter AC",
+    "No Seri": "DL2109T1PV",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "600 V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1quRxGMRsTW4CdETBO3m8zk_AUcnPFkEv"
+  },
+  {
+    "Nama Alat": "Amperemeter AC/DC",
+    "No Seri": "DL2109T12t",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5/5A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1YdFXl3eSoWRVj5ckclJdbuR2zjyivc6B"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL 2109T2A5",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=19rAqUncOIalXZGpTpOAm7KdfAxz_yyAX"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL 2109T2A5",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1FRZOrK7B2KXztpauhLdWEvGsGxRkTtzN"
+  },
+  {
+    "Nama Alat": "Amperemeter AC",
+    "No Seri": "DL2109T2A5",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "2.5 A",
+    "Fungsi": "Alat ukur arus",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1fW7xkT2OWjcYPeLit6Dm1lR4i57xGoFi"
+  },
+  {
+    "Nama Alat": "Voltmeter AC",
+    "No Seri": "DL2109T17/2",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "250V, 500V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1kuGD4c2EBwXpaOH_4vvto8BcWmXXrqkm"
+  },
+  {
+    "Nama Alat": "Frekuensimeter",
+    "No Seri": "DL 2109T16/2",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "45-65 Hz, 220V, 380V",
+    "Fungsi": "Alat ukur frekuensi",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=16WYEf8YbSKP3sw6ydqTSWyTLlrvRkbxS"
+  },
+  {
+    "Nama Alat": "Voltmeter",
+    "No Seri": "DL 2109T17/2",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "250 V, 500 V",
+    "Fungsi": "Alat ukur tegangan",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1cn17uRZxi2LmbR0gFvkl3hIxIIyzb_Oe"
+  },
+  {
+    "Nama Alat": "Lampu Sinkronisasi",
+    "No Seri": "DL2109T1T",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "6 Lampu, 220 V",
+    "Fungsi": "Indikator sinkronisasi",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1YgISGtzPQwArzI67YOYBKZOHuJyEOchF"
+  },
+  {
+    "Nama Alat": "Analogue Speed Indicator",
+    "No Seri": "68-420",
+    "Merk": "Feedback",
+    "Spesifikasi": "DC Input 2V/1000rpm, 0.2mA / 1000rpm",
+    "Fungsi": "Alat ukur kecepatan motor",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1tatXFGVSQWOofptR9f5HRbAGii8i2I3i"
+  },
+  {
+    "Nama Alat": "Inductive Load",
+    "No Seri": "67-300",
+    "Merk": "Feedback",
+    "Spesifikasi": "220V ac, 1A, 700mH, Fuse 2A(T)",
+    "Fungsi": "Beban induktif",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=14rzcKEEeipe0Ej7Z8laAcY0fNRHb9tAW"
+  },
+  {
+    "Nama Alat": "Inductive Load",
+    "No Seri": "67-300",
+    "Merk": "Feedback",
+    "Spesifikasi": "220V ac /1A, 700mH, Fuse 2A(T)",
+    "Fungsi": "Beban induktif",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1MZR1HUCKzSjzk5sPK8G-sAS8fJ6SWqNR"
+  },
+  {
+    "Nama Alat": "Selector Switch",
+    "No Seri": "730 09",
+    "Merk": "Leybold",
+    "Spesifikasi": "DPDT, 1NO, 1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1GqN43kEEi2onBCoykSn_CiHCoPVM8Kvy"
+  },
+  {
+    "Nama Alat": "Limit Switch",
+    "No Seri": "730 05",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NO, 1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1sRvos_LbGs26QhqXMHKlsuviRnJ3Lv5e"
+  },
+  {
+    "Nama Alat": "Limit Switch",
+    "No Seri": "730 05",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NO 1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1L8W3nUcWsTutF8cZTFRuiPKTxUd6BlyM"
+  },
+  {
+    "Nama Alat": "Limit Switch",
+    "No Seri": "730 05",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NO 1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1JXxDHeLedUw_GaYwMy2M3-ytBgeYz8Sf"
+  },
+  {
+    "Nama Alat": "Limit Switch",
+    "No Seri": "730 05",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NO 1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1e1iDAzMwS78uxpozCd3ZH0r446Wuzy2F"
+  },
+  {
+    "Nama Alat": "Signal Lam",
+    "No Seri": "730 16",
+    "Merk": "Leybold",
+    "Spesifikasi": "Single Lamp, 220V",
+    "Fungsi": "Indikator",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=17N_kjwA15f3azZh5S7Ph1LxTuAx1iKJt"
+  },
+  {
+    "Nama Alat": "Signal Lamp",
+    "No Seri": "730 17",
+    "Merk": "Leybold",
+    "Spesifikasi": "Three Lamp, 220V",
+    "Fungsi": "Indikator",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1QZdOJdHnep8JngiEnJwKXeFDPX9oHm-w"
+  },
+  {
+    "Nama Alat": "Signal Lamp",
+    "No Seri": "730 17",
+    "Merk": "Leybold",
+    "Spesifikasi": "Three Lamp, 220V",
+    "Fungsi": "Indikator",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1DiulCNTgNKUVsXfLrOErhIwn6WqXatTs"
+  },
+  {
+    "Nama Alat": "Signal Lamp",
+    "No Seri": "730 17",
+    "Merk": "Leybold",
+    "Spesifikasi": "Three Lamp, 220V",
+    "Fungsi": "Indikator",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=17lO-lX9Wfdq160z5xlDXx9aU3QszvOLI"
+  },
+  {
+    "Nama Alat": "Motor Protection Switch",
+    "No Seri": "731 43",
+    "Merk": "Leybold",
+    "Spesifikasi": "0,24-0,4A",
+    "Fungsi": "Proteksi motor",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1bFfnjifF9PkcH82oQoRgRzQnhtGwLyBq"
+  },
+  {
+    "Nama Alat": "Motor Protection Switch",
+    "No Seri": "731 43",
+    "Merk": "Leybold",
+    "Spesifikasi": "0,24-0,4A",
+    "Fungsi": "Proteksi motor",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1D92zHhL5r6WiQGPdgNWTEDxTsOt0g_wc"
+  },
+  {
+    "Nama Alat": "MOTOR PROTECTION RELAY",
+    "No Seri": "731 45",
+    "Merk": "Leybold",
+    "Spesifikasi": "0,24-0,4A",
+    "Fungsi": "Proteksi motor",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1v9XDFavIPsODMns_UE9SfHwSipSI-Kqx"
+  },
+  {
+    "Nama Alat": "Motor Protection Relay",
+    "No Seri": "731 45",
+    "Merk": "Leybold",
+    "Spesifikasi": "0,24-0,4A",
+    "Fungsi": "Proteksi motor",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1XyjtOiQPc1epe223sgP6YxTCcIa2KMox"
+  },
+  {
+    "Nama Alat": "Motor Protection Relay",
+    "No Seri": "731 45",
+    "Merk": "Leybold",
+    "Spesifikasi": "0,24-0,4A",
+    "Fungsi": "Proteksi motor",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=16ymQs9PxUOSWKFtFBC2qLwGFGhdu8g8q"
+  },
+  {
+    "Nama Alat": "Time Relay",
+    "No Seri": "730 08",
+    "Merk": "Leybold",
+    "Spesifikasi": "Delayed off, 1s-60h",
+    "Fungsi": "Pewaktu",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1pmw5Fa95lXtEXp7Y1C5roRPwAt0iC3eD"
+  },
+  {
+    "Nama Alat": "Time Relay",
+    "No Seri": "730 07",
+    "Merk": "Leybold",
+    "Spesifikasi": "Delayed On, 1s-60h",
+    "Fungsi": "Pewaktu",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1Z5a8q8xQHetDt5nKb5w-2g7cgs7DwHKK"
+  },
+  {
+    "Nama Alat": "Time Relay",
+    "No Seri": "730 08",
+    "Merk": "Leybold",
+    "Spesifikasi": "Delayed Off, 1s-60h",
+    "Fungsi": "Pewaktu",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1HeXkSxL1NBmf3B-NBY5-3h2eLA9noqFX"
+  },
+  {
+    "Nama Alat": "Time Relay",
+    "No Seri": "730 08",
+    "Merk": "Leybold",
+    "Spesifikasi": "Delayed Off, 1s-60h",
+    "Fungsi": "Pewaktu",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1wsMFibyRenMuzITeiBGuhdB-hz8_YZEX"
+  },
+  {
+    "Nama Alat": "Limit Switch",
+    "No Seri": "730 05",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NO 1NC 1S 1O",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1J-js9NA8xSOVhDfGyacxCFJuIL3K0PwO"
+  },
+  {
+    "Nama Alat": "Relay",
+    "No Seri": "730 38",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NO 1NC 1S 1O",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1XM3IStNql5K7kScgJxyfkREq5k0nw8z0"
+  },
+  {
+    "Nama Alat": "Signal Lamp",
+    "No Seri": "730 17",
+    "Merk": "Leybold",
+    "Spesifikasi": "Three lamp, 220V",
+    "Fungsi": "Indikator",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1juY_x1uGbAGrJvIN-v6xlpY6W90DocWK"
+  },
+  {
+    "Nama Alat": "Relay",
+    "No Seri": "730 38",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NO 1NC 1S 1O",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1-MBFB4K7PsoBHsnnmwZ5xHtCihbB_57P"
+  },
+  {
+    "Nama Alat": "Isolation Amplifier Four Channel",
+    "No Seri": "735 216",
+    "Merk": "Leybold",
+    "Spesifikasi": "600V, 16A = 620V =, 16A ~ 440V~, 4 channel",
+    "Fungsi": "Penguat",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1SFnjM3GdIJB2z8EOEcimlhpiPDAeadwC"
+  },
+  {
+    "Nama Alat": "Auxiliary Contactor",
+    "No Seri": "730 10",
+    "Merk": "Leybold",
+    "Spesifikasi": "With tiimer, 3NO 3NC 3S 3O",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1EClpZCZEpzBC-zPreZzatrErHvweGzun"
+  },
+  {
+    "Nama Alat": "Push Button",
+    "No Seri": "730 04",
+    "Merk": "Leybold",
+    "Spesifikasi": "3NO, 3NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1g8aqnsBhL-P3SbP3NdhCOUFjZ0tNRvCo"
+  },
+  {
+    "Nama Alat": "Motor Protection Relay",
+    "No Seri": "731 43",
+    "Merk": "Leybold",
+    "Spesifikasi": "0,24A - 0,4A",
+    "Fungsi": "Proteksi motor",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1MdWdQxc9lGVt7wmRZE0lkGWuU91GN5_G"
+  },
+  {
+    "Nama Alat": "Power Contactor",
+    "No Seri": "730 13",
+    "Merk": "Leybold",
+    "Spesifikasi": "230V 50Hz, 3 Pole ,2NO 2 NC, 2S 20E, 3 Polig",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1cfxcqEpJ6ga51cx5FmCzd1gV18tH8NGz"
+  },
+  {
+    "Nama Alat": "Limit Switch",
+    "No Seri": "730 05",
+    "Merk": "Leybold",
+    "Spesifikasi": "1NO 1NC 1S 1O",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1LxjJz53xH7yU1ox1OaDy0W8zc8tzf_yG"
+  },
+  {
+    "Nama Alat": "Push Button Single",
+    "No Seri": "730 02",
+    "Merk": "Leybold",
+    "Spesifikasi": "PB Single, 1NO, 1NC",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1mQ4VtRXwmvvcw3uJ1Qo0oDvPRJ09BU7n"
+  },
+  {
+    "Nama Alat": "Signal Lamp",
+    "No Seri": "730 17",
+    "Merk": "Leybold",
+    "Spesifikasi": "Three lamp, 220V",
+    "Fungsi": "Indikator",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1ObsFsIMqqvILNDGTp0XSqG_GxvGkltk5"
+  },
+  {
+    "Nama Alat": "Signal Lamp",
+    "No Seri": "730 17",
+    "Merk": "Leybold",
+    "Spesifikasi": "Three lamp, 220V",
+    "Fungsi": "Indikator",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=18XH6HPuUf8mriUJJJYEIOlU4q_fO8BkG"
+  },
+  {
+    "Nama Alat": "Auxiliary Contactor",
+    "No Seri": "730 11",
+    "Merk": "Leybold",
+    "Spesifikasi": "with tiimer, 2NO 2NC 2S 20E",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1385tC06nnWY3evok3ZRy3jdt-q8lS9sn"
+  },
+  {
+    "Nama Alat": "Power Contactor",
+    "No Seri": "730 13",
+    "Merk": "Leybold",
+    "Spesifikasi": "230V 50Hz, 3 Pole ,2NO 2 NC, 2S 20E, 3 Polig",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1T63TId9LxxX0GmyziegbaritQZnLxRQ1"
+  },
+  {
+    "Nama Alat": "Power Contactor",
+    "No Seri": "730 13",
+    "Merk": "Leybold",
+    "Spesifikasi": "230V 50Hz, 3 Pole ,2NO 2 NC, 2S 20E, 3 Polig",
+    "Fungsi": "Saklar",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1lIg-_e9VBljRELsm8O6FQud3eoyJ3mJu"
+  },
+  {
+    "Nama Alat": "Sepam",
+    "No Seri": "19 310048",
+    "Merk": "Schneider",
+    "Spesifikasi": "24-250V,Advanced UMI",
+    "Fungsi": "Proteksi",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1pS9zeOLUHPIIBqbYHA3wPuLPLrNN_geF"
+  },
+  {
+    "Nama Alat": "Three Phase Supply Unit",
+    "No Seri": "726 75",
+    "Merk": "Leybold",
+    "Spesifikasi": "With FCCB, 3 Phase",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1R0AyXIHmYpSPeARH_bLlQKuzL8UU6itz"
+  },
+  {
+    "Nama Alat": "Three Phase Supply Unit",
+    "No Seri": "726 75",
+    "Merk": "Leybold",
+    "Spesifikasi": "With FCCB, 3 Phase",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1_nFzWmYh_vlpbZ6pp3jm7UR_ooXAoxPa"
+  },
+  {
+    "Nama Alat": "Resistor Variabel",
+    "No Seri": "20-20089",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Max 600V ac/dc, 100ohm, 1.0A Imax 2.5A /15min",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1Yv5YGw3MxYfJC9XqCa9mhDHzGM9XQOFR"
+  },
+  {
+    "Nama Alat": "Resistor Variabel",
+    "No Seri": "20-20089",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Max 600V ac/dc, 100ohm, 1.8A Imax 2.5A /15min",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1g74U-mA8Fe7t_gAhgh836r_-RgEsFaJU"
+  },
+  {
+    "Nama Alat": "PID Controller",
+    "No Seri": "PCT20H",
+    "Merk": "Armfield",
+    "Spesifikasi": "ANALOG INPUT 1, TYPE K T/C, 4 - 20 mA, 0 - 5 V/ 1 - 5 V. ANALOG INPUT 2, 4 - 20 mA, 1 - 5 V. ANALOG OUTPUT, 4 - 20 mA, 0 - 5 V. RELAY OUTPUT, N/O CONTACT, N/C CONTACT. ALARM OUTPUT, N/O CONTACT, N/C CONTACT. RS232 SERIAL COMMUNICATION, RS485 COMMUNICATION.",
+    "Fungsi": "PID Controller",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1535qwzfaug-ih45JfyQEV84W1OAhGHZs"
+  },
+  {
+    "Nama Alat": "PID Controller",
+    "No Seri": "PCT20H",
+    "Merk": "Armfield",
+    "Spesifikasi": "ANALOG INPUT 1, TYPE K T/C, 4 - 20 mA, 0 - 5 V/ 1 - 5 V. ANALOG INPUT 2, 4 - 20 mA, 1 - 5 V. ANALOG OUTPUT, 4 - 20 mA, 0 - 5 V. RELAY OUTPUT, N/O CONTACT, N/C CONTACT. ALARM OUTPUT, N/O CONTACT, N/C CONTACT. RS232 SERIAL COMMUNICATION, RS485 COMMUNICATION.",
+    "Fungsi": "PID Controller",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1cXy-uzf6fE61unb3iD5YI427-P-w5IOM"
+  },
+  {
+    "Nama Alat": "Autotrafo",
+    "No Seri": "TDGC2",
+    "Merk": "OKI",
+    "Spesifikasi": "0-250 VAC, 1 kVA",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1ZZFHrUVeOFoi3sROKuUxt_wQEnkNUYNU"
+  },
+  {
+    "Nama Alat": "Autotrafo",
+    "No Seri": "TSGC2",
+    "Merk": "Takayoshi",
+    "Spesifikasi": "in 380VAC, out 0-450VAC, 30 kVA, 3 phase",
+    "Fungsi": "Catu daya",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1OcAtQEIXNlp6ngiK3Nb0_4yUHu29C9PN"
+  },
+  {
+    "Nama Alat": "Bor duduk",
+    "No Seri": "BDM-65",
+    "Merk": "WIPRO",
+    "Spesifikasi": "220 V, 50 Hz, 340 W, max drill depth 25 mm, 0-16000 rpm, min drill capacity 0.6mm, max drill capacity 6.5mm",
+    "Fungsi": "Mengebor",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=163dib0vGCnsiJRGCFS2Enjgyuu-SdAhJ"
+  },
+  {
+    "Nama Alat": "Cos phi Meter",
+    "No Seri": "DL 2109T27",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "0.1-30A, 3-1000V",
+    "Fungsi": "Alat ukur faktor daya",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1dQthO3LyanpDUxiSbdw1Ex21N_LmEMMu"
+  },
+  {
+    "Nama Alat": "Alat Ukur Kecepatan dan Torsi",
+    "No Seri": "DL 10055ETMI",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Max 3000 rpm, 2.5Nm",
+    "Fungsi": "Alat ukur kecepatan dan torsi",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=12VZNlYs4w9Recl-0OWec29BLsvUp9zmi"
+  },
+  {
+    "Nama Alat": "Resitor Variabel",
+    "No Seri": "60VV3231",
+    "Merk": "Yokogawa",
+    "Spesifikasi": "600ohm, 0.5A",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Rusak",
+    "Foto Alat": "https://drive.google.com/open?id=1gHEdqAJGhmRpYPwVz1xQoAeJH74Ruras"
+  },
+  {
+    "Nama Alat": "Resistor Variabel",
+    "No Seri": "20-20089",
+    "Merk": "DE LORENZO",
+    "Spesifikasi": "Max 600V ac/dc, 330ohm, 1.0A Imax 1.4A /15min",
+    "Fungsi": "Beban variabel",
+    "Kondisi": "Bagus",
+    "Foto Alat": "https://drive.google.com/open?id=1qCshyUWeiULwlZ1d0oWSXfuopXIZd-hP"
+  }
+]
