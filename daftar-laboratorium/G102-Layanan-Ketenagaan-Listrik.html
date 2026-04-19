@@ -44,7 +44,7 @@
         <div class="container">
             <a href="../index.html" class="btn-kembali"><i class="bi bi-arrow-left me-2"></i> Kembali ke Dashboard</a>
             <h1 class="fw-bold">Laboratorium Layanan Ketenagaan Listrik</h1>
-            <p class="mb-0 fs-5 text-light opacity-75">Ruang G102 | Penanggung Jawab: Eko Haryono, S.T., M.Eng.</p>
+            <p class="mb-0 fs-5 text-light opacity-75">Ruang G102 | Penanggung Jawab: Teknisi Lab TRE</p>
         </div>
     </header>
 
@@ -85,23 +85,23 @@
 
     <script>
         $(document).ready(function() {
-            $('#tabelInventaris').DataTable({
+            // Memasukkan tabel ke dalam variabel 't'
+            var t = $('#tabelInventaris').DataTable({
+                "order": [[5, 'asc']], // Menambahkan fitur urut otomatis berdasarkan kondisi
                 "ajax": {
                     "url": "../data/g102-data.json", //Note: Sesuaikan dengan nama file json untuk update data inventaris
                     "dataSrc": "" 
                 },
                 "columns": [
                     { 
-                        
+                        // Kolom penomoran diatur agar dinamis
                         "data": null,
-                        "render": function (data, type, row, meta) {
-                            return meta.row + 1;
-                        }
+                        "defaultContent": "",
+                        "orderable": false
                     },
                     { "data": "No Seri" }, 
                     { "data": "Nama Alat" }, 
                     { 
-                        
                         "data": null,
                         "render": function (data, type, row) {
                             return "<strong>" + row["Merk"] + "</strong><br><small>" + row["Spesifikasi"] + "</small>";
@@ -109,10 +109,8 @@
                     },
                     { "data": "Fungsi" }, 
                     { 
-                        
                         "data": "Kondisi",
                         "render": function(data, type, row) {
-                            
                             var kondisi = data ? data.trim() : ""; 
                             
                             if (kondisi === "Baik" || kondisi === "Bagus") {
@@ -125,7 +123,6 @@
                         }
                     },
                     { 
-                        
                         "data": "Foto Alat",
                         "render": function(data, type, row) {
                             if (data && data.trim() !== "") {
@@ -150,6 +147,13 @@
                     }
                 }
             });
+
+            // FUNGSI UTAMA: Menulis ulang nomor 1, 2, 3 dst setiap kali data diurutkan atau dicari
+            t.on('order.dt search.dt', function () {
+                t.column(0, {search:'applied', order:'applied'}).nodes().each( function (cell, i) {
+                    cell.innerHTML = i + 1;
+                });
+            }).draw();
         });
     </script>
 </body>
