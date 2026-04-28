@@ -1,0 +1,177 @@
+[
+  {
+    "Nama Alat": "Temperature Process Rig",
+    "Spesifikasi": "38-600",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Basic Process Rig",
+    "Spesifikasi": "38-100",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "PCT 9 Process Modul",
+    "Spesifikasi": "Armfield",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Pressure Process",
+    "Spesifikasi": "38-714",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Process Controller",
+    "Spesifikasi": "Armfield",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "PCT 20H Industrial PID Controller",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Process Control",
+    "Spesifikasi": "38-300",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Process Interface",
+    "Spesifikasi": "38-200",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Meja PC rakitan",
+    "Spesifikasi": "",
+    "Jumlah": 11,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Meja jati kecil",
+    "Spesifikasi": "",
+    "Jumlah": 8,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Kursi",
+    "Spesifikasi": "",
+    "Jumlah": 8,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Amplifier",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Speaker",
+    "Spesifikasi": "",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "AC Daikin",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Proyektor",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Layar proyektor",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Papan tulis",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Electro Servo Mekanis",
+    "Spesifikasi": "EHS 160",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Control T.U. CNC 3A",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Control T.U. CNC 2A",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Bor besar",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Gerinda duduk",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PC Rakitan",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Monitor",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Pemotong PCB",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  }
+]
