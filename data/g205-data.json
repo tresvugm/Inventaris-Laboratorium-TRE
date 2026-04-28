@@ -1,0 +1,233 @@
+[
+  {
+    "Nama Alat": "Meja Praktikum",
+    "Spesifikasi": "Kayu Jati",
+    "Jumlah": 12,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Meja Asisten",
+    "Spesifikasi": "Kayu biasa",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Kursi Praktikan VIP",
+    "Spesifikasi": "Chitose",
+    "Jumlah": 30,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Meja Dosen",
+    "Spesifikasi": "Poliwood",
+    "Jumlah": 3,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Kursi Dosen",
+    "Spesifikasi": "Chitose",
+    "Jumlah": 3,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Lerek Kaca",
+    "Spesifikasi": "Tiger",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Besi",
+    "Spesifikasi": "Datascrips",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Lemari Kayu Lerek",
+    "Spesifikasi": "Kayu",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Filling Kabnet",
+    "Spesifikasi": "Takasimura",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Alat Filleng Kabinet",
+    "Spesifikasi": "Waterload",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Mitsubishi",
+    "Spesifikasi": "FX 14MR ES",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Mitsubishi",
+    "Spesifikasi": "FX 20MT",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Mitsubishi",
+    "Spesifikasi": "FX 48MR",
+    "Jumlah": 3,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Omron",
+    "Spesifikasi": "CPM 1A, 10CDR-A-V1",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Omron",
+    "Spesifikasi": "CQM1H, CPU-21",
+    "Jumlah": 4,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Omron",
+    "Spesifikasi": "CQM1, CPU 21",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Omron",
+    "Spesifikasi": "CP1E-E20SDR-A",
+    "Jumlah": 6,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Programmable Terminal LCD)",
+    "Spesifikasi": "NB7W, TW00B",
+    "Jumlah": 4,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Schnaider",
+    "Spesifikasi": "TWDL CAE 40 DRF",
+    "Jumlah": 5,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC Schnaider",
+    "Spesifikasi": "TWDL MDA20DRT",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PLC SAIA",
+    "Spesifikasi": "PCD 2A",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Kompresor",
+    "Spesifikasi": "Oilles",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Kompresor",
+    "Spesifikasi": "Imola",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PC Rakitan",
+    "Spesifikasi": "",
+    "Jumlah": 4,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PC Rakitan",
+    "Spesifikasi": "",
+    "Jumlah": 7,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Proyektor",
+    "Spesifikasi": "NEC",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Layar proyektor",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Papan tulis",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "AC",
+    "Spesifikasi": "Daikin",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "AC",
+    "Spesifikasi": "Panasonic",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "Dispenser",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Ampifier",
+    "Spesifikasi": "Toa",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Speaker",
+    "Spesifikasi": "",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  }
+]
