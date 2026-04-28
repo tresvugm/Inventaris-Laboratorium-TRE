@@ -1,0 +1,345 @@
+[
+  {
+    "Nama Alat": "Meja Praktikum",
+    "Spesifikasi": "Kayu Jati",
+    "Jumlah": 16,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Meja Praktikum",
+    "Spesifikasi": "Olimpic",
+    "Jumlah": 6,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Kursi Praktikan VIP",
+    "Spesifikasi": "Chitose",
+    "Jumlah": 30,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PC Praktikan",
+    "Spesifikasi": "i5, 3,2GB, RAM 8",
+    "Jumlah": 12,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PC Praktikan",
+    "Spesifikasi": "Core2,",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Monitor",
+    "Spesifikasi": "Samsung",
+    "Jumlah": 21,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Monitor",
+    "Spesifikasi": "Dell",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Meja Dosen",
+    "Spesifikasi": "Dosen, Tendik",
+    "Jumlah": 8,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Kursi Dosen",
+    "Spesifikasi": "Chitose",
+    "Jumlah": 6,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PC Dosen",
+    "Spesifikasi": "i5, 3,2GB, RAM 8",
+    "Jumlah": 3,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Lerek Kaca",
+    "Spesifikasi": "Brother",
+    "Jumlah": 4,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Lerek Kaca",
+    "Spesifikasi": "Tiger",
+    "Jumlah": 4,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Pintu Besi",
+    "Spesifikasi": "Brother",
+    "Jumlah": 3,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Pintu Besi",
+    "Spesifikasi": "Datascrip",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Alat",
+    "Spesifikasi": "Kayu Jati",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Alat (kabinet besi)",
+    "Spesifikasi": "Waterload",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Alat (kabinet besi)",
+    "Spesifikasi": "Takasimura",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Almari Tas",
+    "Spesifikasi": "Kayu",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "AC",
+    "Spesifikasi": "Daikin 2 PK",
+    "Jumlah": 3,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "AC",
+    "Spesifikasi": "Panasonik",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Proyektor",
+    "Spesifikasi": "Sony",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Layar Proyektor",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Papan Tulis",
+    "Spesifikasi": "",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "APAR kecil",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Aplifier",
+    "Spesifikasi": "TOA 30W",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Speaker",
+    "Spesifikasi": "TOA 5W",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Kompresor",
+    "Spesifikasi": "Panther",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Laser Cutting",
+    "Spesifikasi": "30x20 cm",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Mesin 3D Printing",
+    "Spesifikasi": "Inova 3D",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Osilocop",
+    "Spesifikasi": "GW Instek GDS 620",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Fungtion Generator",
+    "Spesifikasi": "Feedback",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Signal Generator",
+    "Spesifikasi": "Lodestar",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Robot Mentor",
+    "Spesifikasi": "",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Robot Serpent",
+    "Spesifikasi": "",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Robot Grypon",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Printer",
+    "Spesifikasi": "HP LJ P1102",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Bor PCB",
+    "Spesifikasi": "Mollar",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Solder",
+    "Spesifikasi": "Goot",
+    "Jumlah": 5,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Atraktor",
+    "Spesifikasi": "Osmon",
+    "Jumlah": 5,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Solder Angin",
+    "Spesifikasi": "Quick8580",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PS DC",
+    "Spesifikasi": "GW GPR 3060D",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PS DC",
+    "Spesifikasi": "1502D",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PS DC",
+    "Spesifikasi": "Lodestar",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Monitor",
+    "Spesifikasi": "Acer",
+    "Jumlah": 4,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Monitor",
+    "Spesifikasi": "TCL",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "PC Rakitan",
+    "Spesifikasi": "",
+    "Jumlah": 4,
+    "Satuan": "Buah",
+    "Kondisi": "Rusak"
+  },
+  {
+    "Nama Alat": "3D Printer",
+    "Spesifikasi": "Kingroon",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Education Servo",
+    "Spesifikasi": "ES151",
+    "Jumlah": 2,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  },
+  {
+    "Nama Alat": "Dispenser",
+    "Spesifikasi": "",
+    "Jumlah": 1,
+    "Satuan": "Buah",
+    "Kondisi": "Baik"
+  }
+]
